@@ -13,20 +13,20 @@ Route4_PokemonCenter_1F_Text_TeamRocketAttacksCerulean:: @ 819DA3A
 Route4_PokemonCenter_1F_Text_LaddieBuyMagikarpForJust500:: @ 819DA9A
     .string "MAN: Hello there, laddie!\n"
     .string "Have I got a deal just for you!\p"
-    .string "I'll let you have a secret POKéMON\n"
-    .string "- a MAGIKARP - for just ¥500!\p"
+    .string "I'll let you have a STRONG POKéMON\n"
+    .string "- a FEEBAS - for just ¥20000!\p"
     .string "So, you'll buy it, am I right?$"
 
 Route4_PokemonCenter_1F_Text_SweetieBuyMagikarpForJust500:: @ 819DB34
     .string "MAN: Hello there, sweetie pie!\n"
     .string "Have I got a deal just for you!\p"
-    .string "I'll let you have a secret POKéMON\n"
-    .string "- a MAGIKARP - for just ¥500!\p"
+    .string "I'll let you have a BEAUTIFUL POKéMON\n"
+    .string "- a FEEBAS - for just ¥20000!\p"
     .string "So, you'll buy it, am I right?$"
 
 Route4_PokemonCenter_1F_Text_PaidOutrageouslyForMagikarp:: @ 819DBD3
-    .string "{PLAYER} paid an outrageous ¥500\n"
-    .string "and bought the MAGIKARP…$"
+    .string "{PLAYER} paid ¥20000\n"
+    .string "and bought the FEEBAS…$"
 
 Route4_PokemonCenter_1F_Text_OnlyDoingThisAsFavorToYou:: @ 819DC07
     .string "No? You say no? I'm only doing this\n"

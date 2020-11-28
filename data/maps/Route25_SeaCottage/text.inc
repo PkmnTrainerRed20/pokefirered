@@ -101,7 +101,7 @@ Route25_SeaCottage_Text_InitiatedTeleportersCellSeparator:: @ 81A042D
     .string "Cell Separator.$"
 
 Route25_SeaCottage_Text_BillsFavoriteMonList:: @ 81A045B
-    .string "BILL's favorite POKéMON list!$"
+    .string "BILL's rare POKéMON list!$"
 
 Route25_SeaCottage_Text_SeeWhichMon:: @ 81A0479
     .string "Which POKéMON do you want to see?$"
